@@ -2678,40 +2678,16 @@ section.lazy-placeholder:after {
     padding-bottom: 3rem;
   }
 }
-.cid-rYXRL90mPC {
+.cid-s4TeZWDQWz {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rYXRL90mPC .socicon-bg-facebook {
-  background: #3e5b98;
-  color: #ffffff;
+.cid-s4TeZWDQWz [class^="socicon-"]:before,
+.cid-s4TeZWDQWz [class*=" socicon-"]:before {
+  line-height: 44px;
 }
-.cid-rYXRL90mPC .socicon-bg-twitter {
-  background: #4da7de;
-  color: #ffffff;
-}
-.cid-rYXRL90mPC .socicon-bg-googleplus {
-  background: #dd4b39;
-  color: #ffffff;
-}
-.cid-rYXRL90mPC .socicon-bg-vkontakte {
-  background: #5a7fa6;
-  color: #ffffff;
-}
-.cid-rYXRL90mPC .socicon-bg-odnoklassniki {
-  background: #f48420;
-  color: #ffffff;
-}
-.cid-rYXRL90mPC .socicon-bg-pinterest {
-  background: #c92619;
-  color: #ffffff;
-}
-.cid-rYXRL90mPC .socicon-bg-mail {
-  background: #134785;
-  color: #ffffff;
-}
-.cid-rYXRL90mPC .btn-social {
+.cid-s4TeZWDQWz .btn-social {
   font-size: 20px;
   border-radius: 50%;
   padding: 0;
@@ -2720,23 +2696,27 @@ section.lazy-placeholder:after {
   line-height: 44px;
   text-align: center;
   position: relative;
+  color: #232323;
   cursor: pointer;
-  border: none !important;
+  border-color: #149dcc;
 }
-.cid-rYXRL90mPC .btn-social i {
+.cid-s4TeZWDQWz .btn-social i {
   top: 0;
   line-height: 44px;
   width: 44px;
 }
-.cid-rYXRL90mPC .btn-social + .btn {
+.cid-s4TeZWDQWz .btn-social:hover {
+  color: #fff;
+  background: #149dcc;
+}
+.cid-s4TeZWDQWz .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+.cid-s4TeZWDQWz .btn-social + .btn {
   margin-left: .1rem;
 }
-.cid-rYXRL90mPC [class^="socicon-"]:before,
-.cid-rYXRL90mPC [class*=" socicon-"]:before {
-  line-height: 44px;
-}
 @media (max-width: 767px) {
-  .cid-rYXRL90mPC .btn {
+  .cid-s4TeZWDQWz .btn {
     font-size: 20px !important;
   }
 }
@@ -15723,29 +15703,6 @@ section.lazy-placeholder:after {
 }
 .cid-s4IYoGlzHJ {
   background-image: url("../../../assets/images/image-5.png");
-}
-.cid-s4J480Befx {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #0c09f7;
-}
-.cid-s4J480Befx .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-s4J480Befx .section-text {
-  padding: 2rem 0;
-}
-.cid-s4J480Befx .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-s4J480Befx .inner-container {
-    width: 100% !important;
-  }
 }
 .cid-s4J4EJA90f {
   padding-top: 60px;
