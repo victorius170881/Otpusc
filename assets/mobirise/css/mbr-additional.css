@@ -19296,6 +19296,10 @@ section.lazy-placeholder:after {
 .cid-s7kXM5DU3K {
   background-image: url("../../../assets/images/logo-2.jpg");
 }
+.cid-s7kXM5DU3K .mbr-text,
+.cid-s7kXM5DU3K .mbr-section-btn {
+  color: #f7ed4a;
+}
 .cid-s7kYnMksq3 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -19338,15 +19342,15 @@ section.lazy-placeholder:after {
   color: #767676;
   text-align: left;
 }
-.cid-s7kZG8mLUw {
+.cid-s7ltAuEOY5 {
   background: #ffffff;
 }
-.cid-s7kZG8mLUw .video-block {
+.cid-s7ltAuEOY5 .video-block {
   margin: auto;
   width: 100% !important;
 }
 @media (max-width: 768px) {
-  .cid-s7kZG8mLUw .video-block {
+  .cid-s7ltAuEOY5 .video-block {
     width: 100% !important;
   }
 }
